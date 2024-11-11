@@ -1,0 +1,6 @@
+﻿  Vjezba4.c
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba4\Vjezba4\Vjezba4\Vjezba4.c(218,23): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba4\Vjezba4\Vjezba4\Vjezba4.c(218,23): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'int'
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba4\Vjezba4\Vjezba4\Vjezba4.c(218,23): warning C4477: 'fscanf' : format string '%n' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba4\Vjezba4\Vjezba4\Vjezba4.c(218): error C4700: uninitialized local variable 'exp' used
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba4\Vjezba4\Vjezba4\Vjezba4.c(218): error C4700: uninitialized local variable 'coeff' used
