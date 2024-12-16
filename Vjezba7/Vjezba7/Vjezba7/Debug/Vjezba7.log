@@ -1,0 +1,4 @@
+﻿  Vjezba7.c
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba7\Vjezba7\Vjezba7\Vjezba7.c(95,17): warning C4013: 'deleteDirectory' undefined; assuming extern returning int
+C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba7\Vjezba7\Vjezba7\Vjezba7.c(96,13): warning C4013: 'deleteStack' undefined; assuming extern returning int
+  Vjezba7.vcxproj -> C:\Users\tonii\source\repos\StrukturePodataka\StrukturePodataka\Vjezba7\Vjezba7\Debug\Vjezba7.exe
